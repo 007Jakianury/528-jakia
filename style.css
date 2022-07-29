@@ -1,0 +1,43 @@
+*{
+    padding:0px;
+    margin: 0px;
+}
+.outer{
+    width:  8.27in;
+    height:  11.69in;
+    margin: 0px auto;
+}
+.outer h1{
+    text-align: center;
+}
+p1{
+    font-size: 20px;
+    
+}
+p2{
+    font-size: 20px;
+    text-align-last: justify;
+}
+.border{
+    width: 98%;
+    padding: 5px;
+    background-color: rgb(193, 202, 202);
+    border: 1px solid black;
+    font-weight: bold;
+}
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+   
+    
+}
+
+table,th,td{
+    border: 1px solid black;
+    padding-right: 60px;
+    border-spacing: 0px;
+    
+}
+h2{
+    float: right;
+}
